@@ -1,1 +1,4 @@
 # CSE676_dcGAN_saGAN
+
+CSE676 Project 1 : DCGAN, SAGAN
+
